@@ -3,7 +3,7 @@
 This folder contains detailed documentation of the project implementation.
 
 📑 **View Full Documentation:**
-[Open Project Documentation](./documentation/documenn.pdf)
+[Open Project Documentation](aws-application-load-balancer-ec2/documentation/documenn.pdf)
 
 ---
 
