@@ -3,7 +3,7 @@
 This folder contains detailed documentation of the project implementation.
 
 📑 **View Full Documentation:**
-[Open Project Documentation](./documentation/alb+2ec2%28proj3%20and%20mod1%29.pdf)
+[Open Project Documentation](documentation/alb+2ec2%28proj3%20and%20mod1%29.pdf)
 
 ---
 
