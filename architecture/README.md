@@ -3,7 +3,7 @@
 This diagram represents a highly available web application architecture using an Application Load Balancer (ALB) and multiple EC2 instances deployed across different Availability Zones.
 
 🖼️ **Architecture:**
-![Architecture](architecture_diagram.png)
+![Architecture](DIAGRAMMM.png)
 
 ---
 
