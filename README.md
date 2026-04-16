@@ -28,7 +28,7 @@ Instead of relying on a single server, incoming HTTP traffic is distributed acro
 ---
 
 ## 🏗️ Architecture
-![Architecture](architecture/architecture_diagram.png)
+![Architecture](architecture/DIAGRAMMM.png)
 The architecture follows a real-world production design:
 
 - Internet-facing Application Load Balancer  
